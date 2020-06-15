@@ -3,6 +3,7 @@
 def display_board(board)
 
 #display_board is the method 
+#argument is board
 
 puts " #{board[0]} | #{board[1]} | #{board[2]} "
 puts "-----------"
